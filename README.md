@@ -8,6 +8,6 @@ This repository is not for serious purposes! I like programming and am working o
 
 ## TCP 1: Greeting.c
 
-This is a small C program that ("when run" **stating the obvious** ) outputs a greeting for the user. The purpose is to add this program in bash shell's startup file `.bashrc` (**like you already didn't know that!**), so that whenever a new user logs in, they are greeted with a pleasant message.
+This is a small C program that ("when run" **stating the obvious** 😅) outputs a greeting for the user. The purpose is to add this program in bash shell's startup file `.bashrc` (**like you already didn't know that!**), so that whenever a new user logs in, they are greeted with a pleasant message.
 
-> There lies a moon phase algorithm in this T-C-P, and unlike Dan, I did look into it (GPT **coughs**), as a result I understand it somewhat better, however for all intents and purposes it's still just a toy!
+> There lies a moon phase algorithm in this T-C-P, and unlike Dan, I did look into it (GPT **coughs** 🤫), as a result I understand it somewhat better, however for all intents and purposes it's still just a toy!
