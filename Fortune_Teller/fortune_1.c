@@ -23,4 +23,6 @@ int main(int argc, char** argv){
     return(0);
 }
 
-//look into fgets, fprinf, feof next time
+//look into fgets, fprinf, feof, freopen, fdopen, next time
+//look into file-descriptors
+//
